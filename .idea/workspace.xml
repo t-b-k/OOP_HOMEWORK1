@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e2a419-8d07-47e1-94f4-05f85aa78f53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_HOMEWORKS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/AnimalsColours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Bat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/CoverTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/DomesticOrWild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Giraffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/LimbsTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/MobilityTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/RespiratoryOrgans.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Runla9Bcmvvzv1VQWr6GKcs9S2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Татьяна Калашникова/CODE/JAVA/HOMEWORKS"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HOMEWORK1.Main" />
+      <module name="OOP_HOMEWORKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HOMEWORK1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e2a419-8d07-47e1-94f4-05f85aa78f53" name="Changes" comment="" />
+      <created>1688108990169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688108990169</updated>
+    </task>
+    <servers />
+  </component>
+</project>
