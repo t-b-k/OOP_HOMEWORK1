@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45e2a419-8d07-47e1-94f4-05f85aa78f53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_HOMEWORKS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/AnimalsColours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/CoverTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/DomesticOrWild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Giraffe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/LimbsTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/MobilityTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HOMEWORK1/animalsWorld/RespiratoryOrgans.java" afterDir="false" />
+    <list default="true" id="45e2a419-8d07-47e1-94f4-05f85aa78f53" name="Changes" comment="ДЗ1 выполнено">
+      <change afterPath="$PROJECT_DIR$/src/OOP_HOMEWORK4/FileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HOMEWORK4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +39,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Татьяна Калашникова/CODE/JAVA/HOMEWORKS"
+    "last_opened_file_path": "C:/Users/Татьяна Калашникова/CODE/JAVA/OOP/OOP_HOMEWORKS"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OOP_HOMEWORK4.Main">
+    <configuration name="FileRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HOMEWORK4.FileRepository" />
+      <module name="OOP_HOMEWORKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_HOMEWORK4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HOMEWORK1.Main" />
       <module name="OOP_HOMEWORKS" />
@@ -75,8 +69,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OOP_HOMEWORK4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HOMEWORK4.Main" />
+      <module name="OOP_HOMEWORKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_HOMEWORK4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP_HOMEWORK4.Main" />
+        <item itemvalue="Application.FileRepository" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -90,6 +99,18 @@
       <option name="presentableId" value="Default" />
       <updated>1688108990169</updated>
     </task>
+    <task id="LOCAL-00001" summary="ДЗ1 выполнено">
+      <created>1688132698613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688132698613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ДЗ1 выполнено" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ1 выполнено" />
   </component>
 </project>
