@@ -9,17 +9,20 @@ import java.io.*;
 import java.util.*;
 
 public class FileRepository<ID_TYPE, OBJ_TYPE> {
+    private OBJ_TYPE helpVariable;
     private String classNameOfStoredObjects;
     private File txtFileName;
     private FileWriter fw;
     private FileReader fr;
 
 
-    public FileRepository<OBJ_TYPE> () throws IOException {
-        this.classNameOfStoredObjects = OBJ_TYPE.getClass().toString();
-        this.txtFileName = new File(classNameOfStoredObjects.concat(".txt"));
-        this.fw = new FileWriter(txtFileName,false);
-        this.fr = new FileReader(txtFileName);
+    public FileRepository () throws IOException {
+        this.helpVariable = (OBJ_TYPE)new Object();
+        System.out.println(helpVariable.getClass().getTypeName());
+//        this.classNameOfStoredObjects = OBJ_TYPE.getClass().toString();
+//        this.txtFileName = new File(classNameOfStoredObjects.concat(".txt"));
+//        this.fw = new FileWriter(txtFileName,false);
+//        this.fr = new FileReader(txtFileName);
     }
 //    public FileRepository (String className) {
 //        this.classNameOfStoredObjects = className;
